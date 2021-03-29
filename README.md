@@ -1,0 +1,1 @@
+[PGP public key](rodrigoprestes.asc) fingerprint: 469B 2E6C 74C4 E060 2DB6  7B0B F4FE ED47 7FE6 2033
